@@ -1,0 +1,11 @@
+Description,Designator,Value,qty/board,manuf part #,supplier part #,supplier link,comments
+xtal caps,"C2, C3",6pF,2,Johanson 251R14S100JV4T,712-1308-6-ND,https://www.digikey.com/product-detail/en/johanson-technology-inc/251R14S100JV4T/712-1308-6-ND/1786980,
+bypass cap,C1,1uF,1,Samsung CL10A105KQ8NNNC,1276-1036-1-ND,https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL10A105KQ8NNNC/1276-1036-6-ND/3891550,
+xtal,Y1,32.768 KHz,1,Abracon ABS07-32.768KHZ-7-T,535-9543-1-ND,https://www.digikey.com/product-detail/en/abracon-llc/ABS07-32.768KHZ-7-T/535-9543-6-ND/1763911,
+SoC,U1,BMD-300,1,,,,
+CR2032 battery holder,BT1,N/A,1,Harwin S8211-46R,952-1735-6-ND,https://www.digikey.com/products/en?keywords=952-1735-6-ND,
+power switch,S1,N/A,1,ALPS SSSS810701,688-SSSS810701,http://www.mouser.com/ProductDetail/ALPS/SSSS810701/?qs=%2fha2pyFadug%252b9r55kARv8u6jemk%2fnVDpg4AtpntG2M3VCLlUvZogwQ%3d%3d&utm_source=octopart&utm_medium=aggregator&utm_campaign=688-SSSS810701&utm_content=ALPS,
+nav switches,,N/A,2,ALPS SKRHABE010,,Online components,
+4 SMD RA 2.54 HDR,,N/A,1,Harwin M20-8890445 ,952-3233-ND,https://www.digikey.com/product-detail/en/harwin-inc/M20-8890445/952-3233-ND/6565717,
+OLED Screen,,N/A,1,,,https://www.aliexpress.com/item/1pcs-0-96-blue-0-96-inch-OLED-module-New-128X64-OLED-LCD-LED-Display-Module/32643950109.html,
+Lanyard,N/A,N/A,1,,,,
